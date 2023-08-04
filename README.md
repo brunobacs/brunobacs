@@ -1,6 +1,6 @@
 <h1 align="center"> Bruno Bacs</h1>
 
-<nav align="center" >
+<nav align="center">
 
   <a href="mailto:brunobaacs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-fff?logo=gmail&logoColor=e40613&style=for-the-badge" alt="Mail to Bacs" height="25" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.linkedin.com/in/brunobacs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-fff?logo=linkedin&logoColor=0152a1&style=for-the-badge" alt="LinkedIn Bacs" height="25" style="vertical-align:top; margin:4px"></a>
