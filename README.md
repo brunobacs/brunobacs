@@ -8,6 +8,7 @@
 
 </p>
 
+
 --- 
 <h2 align="center" >Who am I?</h2>
 - 🎓 I’m currently studying Computer Science at UFC🇧🇷, but I am also Journalist (UFC) with MBA Makerting (USP/Esalq)<br>
@@ -15,7 +16,6 @@
 - 🕸️ I’m looking to collaborate on open source projects<br>
 - 📚 running the race to be a great Software Engineering, while deep in Kotlin, Python, Java, C++.
 - ⚡ I love learning new languages, and now I'm studying French🇫🇷 and German🇩🇪 <br>
-
 
 
 --- 
