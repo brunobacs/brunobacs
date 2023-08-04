@@ -4,6 +4,7 @@
 
 [<img src="https://img.shields.io/badge/GMAIL-fff?logo=gmail&logoColor=e40613&style=for-the-badge" alt="Mail to Bacs" height="25" style="vertical-align:top; margin:4px">](mailto:brunobaacs@gmail.com)
 [<img src="https://img.shields.io/badge/DISCORD-fff?logo=discord&logoColor=7289da&style=for-the-badge" alt="Discord Bacs" height="25" style="vertical-align:top; margin:4px">](https://discord.com/users/698610005829746748)
+[<img src="https://img.shields.io/badge/LinkedIn-fff?logo=linkedin&logoColor=0152a1&style=for-the-badge" alt="LinkedIn Bacs" height="25" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/brunobacs/)
 
 </p>
 
