@@ -15,7 +15,7 @@
 - 👨🏻‍💻 I have concluded Santander Coders 2023, Class1000: Java, OOP, PostgreSQL and Spring with support of Ada Tech<br>
 - 🕸️ I’m looking to collaborate on open source projects<br>
 - 📚 running the race to be a great Software Engineering, while deep in Kotlin, Python, Java, C++.
-- ⚡ I love learning new languages, and now I'm studying French🇫🇷 and German🇩🇪 <br>
+- ⚡ I love learning new languages, and now I'm studying Finnish🇫🇮 and German🇩🇪 <br>
 
 
 --- 
